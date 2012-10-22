@@ -10,6 +10,13 @@ Installation
 
 Follow the usual Elgg module installation practices, I.e. put the directory in your /mod.
 
+Usage
+-----
+
+This plugin provides a number of views in html_mails_1.8/views/default/html_mails which provide the html wrappers for the various messages.
+
+Condiminds have created examples, but you probably want to create your own templates. Bare in mind that html in emails tends to be a little twitchy, so follow the published guidelines!
+
 See
 ---
 
