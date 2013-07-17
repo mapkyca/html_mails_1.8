@@ -6,8 +6,8 @@
     <version>1.8</version>
     <category>enhancements</category>
     <blurb>HTML Mails</blurb>
-    <description>A quick Elgg 1.8 port of the html_mails plugin originally created by Condiminds</description>
-    <website>http://www.condiminds.com</website>
+    <description>A quick Elgg 1.8 port of the html_mails plugin originally created by Condiminds - http://www.condiminds.com</description>
+    <website>http://www.marcus-povey.co.uk</website>
     <copyright>See lisence.txt</copyright>
     <license>GNU Public License version 2</license>
     <requires>
